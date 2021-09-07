@@ -45,7 +45,7 @@ img {
 .container {
     position: relative;
     z-index: 5;
-    max-width: 92rem;
+    max-width: 86rem;
     padding: 0 4rem;
     margin: 0 auto;
 }
@@ -239,7 +239,7 @@ nav .container {
 }
 
 .logo {
-    width: 80px;
+    width: 140px;
     display: flex;
     align-items: center;
 }
@@ -478,7 +478,7 @@ header .circle {
 }
 
 .icon {
-    width: 90px;
+    width: 250px;
     margin-bottom: 1.7rem;
 }
 
